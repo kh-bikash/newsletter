@@ -1,0 +1,4 @@
+interface:
+  display_name: "Choose News Template"
+  short_description: "Pick the best minimal light news layout"
+  default_prompt: "Use $choose-news-template to select and create the best minimal light template for this news story."

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "slug": "unrot-news-template",
+    "platform": "instagram",
+    "template": "unrot-app-card",
+    "language": "en",
+    "width": 1080,
+    "height": 1350
+  },
+  "theme": {
+    "dark_mode": false,
+    "background": "#FFFFFF",
+    "surface": "#FAFAF8",
+    "text": "#171717",
+    "muted": "#666666",
+    "accent": "#6D3BF5",
+    "border": "#E7E7EA",
+    "footer_text": "#FFFFFF"
+  },
+  "brand": {
+    "name": "Unrot",
+    "handle": "@unrot.co",
+    "tagline": "Learn AI in 5 minutes",
+    "logo": "unrot-logo.png"
+  },
+  "content": {
+    "category": "AI NEWS",
+    "headline": "A concise factual headline goes here",
+    "summary": "Replace this example with a short explanation of what changed and why it matters to people learning and working with AI.",
+    "cta": "Get the app",
+    "image": {
+      "src": "",
+      "alt": "Describe the visible news image",
+      "credit": "Original artwork or licensed image credit"
+    },
+    "stat": {
+      "value": "",
+      "label": ""
+    },
+    "quote": {
+      "text": "",
+      "attribution": ""
+    },
+    "timeline": [],
+    "app_download": {
+      "app_store_badge": "app-store.png",
+      "google_play_badge": "google-play.png",
+      "app_store_url": "https://apps.apple.com/app/unrot/id6762194853",
+      "google_play_url": "https://play.google.com/store/apps/details?id=com.buildfastwithai.unrotco"
+    }
+  },
+  "sources": [
+    "https://unrot.co/marketing"
+  ],
+  "selection": {
+    "reason": "Unrot app card selected because the news post should pair a visual summary with official iOS and Android download options."
+  }
+}

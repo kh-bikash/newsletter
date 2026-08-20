@@ -1,0 +1,61 @@
+{
+  "project": {
+    "slug": "example-news-template",
+    "platform": "instagram",
+    "template": "hero-card",
+    "language": "en",
+    "width": 1080,
+    "height": 1350
+  },
+  "theme": {
+    "dark_mode": false,
+    "background": "#FFFFFF",
+    "surface": "#FAFAF8",
+    "text": "#171717",
+    "muted": "#666666",
+    "accent": "#6D3BF5",
+    "border": "#E7E7EA",
+    "footer_text": "#FFFFFF"
+  },
+  "brand": {
+    "name": "Example Brand",
+    "handle": "@example",
+    "tagline": "Clear news, quickly",
+    "logo": ""
+  },
+  "content": {
+    "category": "AI NEWS",
+    "headline": "A concise factual headline goes here",
+    "summary": "Replace this example with a short explanation of what changed and why it matters to the intended reader.",
+    "cta": "Read more",
+    "image": {
+      "src": "",
+      "alt": "Describe the visible hero image",
+      "credit": "Original artwork or licensed image credit"
+    },
+    "stat": {
+      "value": "42%",
+      "label": "Example verified metric"
+    },
+    "quote": {
+      "text": "A short, accurately attributed quote.",
+      "attribution": "Name, role or source"
+    },
+    "timeline": [
+      {
+        "label": "Step one",
+        "detail": "First verified event"
+      },
+      {
+        "label": "Step two",
+        "detail": "Second verified event"
+      }
+    ]
+  },
+  "sources": [
+    "https://example.com/source"
+  ],
+  "selection": {
+    "reason": "Hero card selected because a strong visual is available and the story needs a concise overview."
+  }
+}
